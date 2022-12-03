@@ -9,7 +9,7 @@ const config = {
   title: 'Felt',
   tagline: 'The best way to make maps on the Internet.',
   url: 'https://duckduckquy.github.io',
-  baseUrl: '/',
+  baseUrl: '/felt-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico', // TODO Replace
