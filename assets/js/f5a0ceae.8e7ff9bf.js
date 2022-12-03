@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfelt_docs=self.webpackChunkfelt_docs||[]).push([[2421],{3445:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/felt-docs/blog/tags/hola","allTagsPath":"/felt-docs/blog/tags","count":1}')}}]);

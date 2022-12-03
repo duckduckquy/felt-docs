@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfelt_docs=self.webpackChunkfelt_docs||[]).push([[7899],{8485:e=>{e.exports=JSON.parse('{"permalink":"/felt-docs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfelt_docs=self.webpackChunkfelt_docs||[]).push([[2238],{871:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/felt-docs/blog/tags/docusaurus","allTagsPath":"/felt-docs/blog/tags","count":4}')}}]);
