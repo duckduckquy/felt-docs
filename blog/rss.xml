@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Felt Blog</title>
-        <link>https://duckduckquy.github.io/felt-docs/blog</link>
+        <link>https://github.com/felt-docs/blog</link>
         <description>Felt Blog</description>
         <lastBuildDate>Sat, 03 Dec 2022 17:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Introduction]]></title>
-            <link>https://duckduckquy.github.io/felt-docs/blog/reference</link>
+            <link>https://github.com/felt-docs/blog/reference</link>
             <guid>/reference</guid>
             <pubDate>Sat, 03 Dec 2022 17:14:13 GMT</pubDate>
             <description><![CDATA[The Felt Style Language is a way for advanced users to style data quickly, through simple code. This document is a guide to use as you test data files in Felt. For an exhaustive guide to all supported properties see the Reference Documentation.]]></description>
@@ -18,7 +18,7 @@
         </item>
         <item>
             <title><![CDATA[Introduction]]></title>
-            <link>https://duckduckquy.github.io/felt-docs/blog/test/testing</link>
+            <link>https://github.com/felt-docs/blog/test/testing</link>
             <guid>/test/testing</guid>
             <pubDate>Sat, 03 Dec 2022 17:14:13 GMT</pubDate>
             <description><![CDATA[The Felt Style Language is a way for advanced users to style data quickly, through simple code. This document is a guide to use as you test data files in Felt. For an exhaustive guide to all supported properties see the Reference Documentation.]]></description>
@@ -26,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://duckduckquy.github.io/felt-docs/blog/welcome</link>
+            <link>https://github.com/felt-docs/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
@@ -37,7 +37,7 @@
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://duckduckquy.github.io/felt-docs/blog/mdx-blog-post</link>
+            <link>https://github.com/felt-docs/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
@@ -46,7 +46,7 @@
         </item>
         <item>
             <title><![CDATA[Long Blog Post]]></title>
-            <link>https://duckduckquy.github.io/felt-docs/blog/long-blog-post</link>
+            <link>https://github.com/felt-docs/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
@@ -56,7 +56,7 @@
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
-            <link>https://duckduckquy.github.io/felt-docs/blog/first-blog-post</link>
+            <link>https://github.com/felt-docs/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
