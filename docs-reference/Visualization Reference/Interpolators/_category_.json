@@ -1,0 +1,8 @@
+{
+    "label": "Interpolator",
+    "position": 7,
+    "link": {
+      "type": "generated-index",
+      "description": "Interpolators are functions that use the current zoom level to get you a value. The following intepolators are currently supported:"
+    }
+  }

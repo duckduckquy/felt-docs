@@ -1,0 +1,8 @@
+{
+    "label": "Value functions",
+    "position": 8,
+    "link": {
+      "type": "generated-index",
+      "description": "Value functions are functions that return a value. These can be defined either as Interpolators or as data-driven value definitions."
+    }
+  }
