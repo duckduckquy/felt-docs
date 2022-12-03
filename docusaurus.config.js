@@ -8,8 +8,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Felt',
   tagline: 'The best way to make maps on the Internet.',
-  url: 'https://duckduckquy.github.io',
+  url: 'https://github.com',
   baseUrl: '/felt-docs/',
+  // url: 'https://duckduckquy.github.io',
+  // baseUrl: '/felt-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico', // TODO Replace
@@ -18,6 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'duckduckquy', // Usually your GitHub org/user name.
   projectName: 'felt-docs', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   i18n: {
     defaultLocale: 'en',
