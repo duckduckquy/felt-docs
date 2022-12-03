@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfelt_docs=self.webpackChunkfelt_docs||[]).push([[385],{169:e=>{e.exports=JSON.parse('{"title":"Filtering","description":" ","slug":"/category/filtering","permalink":"/docs/category/filtering","navigation":{"previous":{"title":"Legends","permalink":"/docs/legends"},"next":{"title":"Data filters","permalink":"/docs/Filtering/data-filters"}}}')}}]);
