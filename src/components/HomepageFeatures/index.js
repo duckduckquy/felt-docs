@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Send us an email support@felt.com
+        Send us an email at support@felt.com
       </>
     ),
   }
